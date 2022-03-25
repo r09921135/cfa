@@ -53,7 +53,7 @@ lr=0.0005
 echo 'use_target: '$use_target', dataset: '$dataset
 
 ## run codes ##
-for split in 1 #2 3 4
+for split in 1 2 3 4
 do
     echo 'split: '$split
     # train
