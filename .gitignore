@@ -1,0 +1,9 @@
+# Byte-compiled
+__pycache__/
+
+# big files
+Models/
+Results/
+
+# do not want to upload
+*not_upload*
