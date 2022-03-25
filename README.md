@@ -1,6 +1,6 @@
 # Domain Adaptation with Contextual Foreground Attention for Action Segmentation
 
-## Contribution
+## Contribution [[Slides]](https://github.com/r09921135/cfa/blob/master/(Slides)CFA.pdf)
 * Propose the Contextual Foreground Attention for domain adaptation of action segmentation. 
 * Design an attention mechnism to capture the temporal relations of actions.
 * Utilize foreground labels to filter out the irrelavent information.
