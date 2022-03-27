@@ -4,7 +4,7 @@
 * Propose the Contextual Foreground Attention for domain adaptation of action segmentation. 
 * Design an attention mechnism to capture the temporal relations of actions.
 * Utilize foreground labels to filter out the irrelavent information.
-* Outperm the existing frame-wise DA approaches and achieve state-of-the-art in GTEA dataset.
+* Outperform the existing frame-wise DA approaches and achieve state-of-the-art in GTEA dataset.
 
 ## Results
 ### GTEA dataset
